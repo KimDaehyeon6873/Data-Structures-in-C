@@ -1,4 +1,4 @@
-# C언어 기반 자료구조 분석 및 개선 (Data Structures in C Portfolio)
+# C언어 기반 자료구조 분석 및 개선 (Data Structures in C)
 
 ## 📖 개요
 
